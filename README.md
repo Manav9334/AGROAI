@@ -58,7 +58,10 @@ python app.py
 - Disease prediction
 - Responsive UI
 - Backend ML integration
+- REST API using Flask
+- Responsive UI
 
-
+## 📷 Preview
+![alt text](<assets/Screenshot 2026-03-10 231110.png>)
 ## 👨‍💻 Author
 Manav Kumar
